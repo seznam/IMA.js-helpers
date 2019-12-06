@@ -1,3 +1,5 @@
+The package was moved to https://github.com/seznam/ima/tree/master/packages/helpers.
+
 # IMA.js-helpers
 
 This repository contains various helpers for the IMA.js framework.
